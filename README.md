@@ -22,7 +22,3 @@ Hassen Chebil
 
 <p> Vous pouvez également me trouver sur <a href="https://www.linkedin.com/in/hassen-chebil-9a6299220/">LinkedIn</a> </p>
 
-
-<p> Pour me contacter, veuillez envoyer un email à : 
-    <a href="mailto:chebilhassen7@gmail.com">Hassen [à] Informatique [point] com</a>
-</p>
