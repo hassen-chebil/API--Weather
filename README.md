@@ -24,5 +24,5 @@ Hassen Chebil
 
 
 <p> Pour me contacter, veuillez envoyer un email à : 
-    <a href="mailto:chebilhassen7@gmail.com">nom [à] domaine [point] com</a>
+    <a href="mailto:chebilhassen7@gmail.com">Hassen [à] Informatique [point] com</a>
 </p>
