@@ -20,7 +20,8 @@ Requests
 
 Hassen Chebil
 
-LinkedIn Profile
+<p> Vous pouvez également me trouver sur <a href="https://www.linkedin.com/in/hassen-chebil-9a6299220/">LinkedIn</a> </p>
+
 
 <p> Pour me contacter, veuillez envoyer un email à : 
     <a href="mailto:chebilhassen7@gmail.com">nom [à] domaine [point] com</a>
